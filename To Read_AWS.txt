@@ -1,0 +1,43 @@
+- ActiveDirectory Connector and replicas
+- GitHub Integration
+- Chef
+- PHP
+- Java
+- Algorithms
+- Data Structures
+- See how to install a LAMP server on linux in the last video of 'Basic LINUX training - udemy'
+
+
+Q1. How do you serve multiple web sites from a single EC2 instance? ---using ENI (Read about it)
+Q2. Read about AWS ActiveDirectory Connector
+
+AWS CloudFront MasterClass
+AWS Storage Gateway MasterClass
+Read concepts of DNS Routing
+AWS Route 53 (what is a hosted zone, name server, Record Set)
+AWS KMS
+AWS CloudWatch
+AWS Elasticache
+AWS CloudSearch
+AWS EMR
+AWS Reference Architectures
+AWS Mobile Analytics
+AWS Networking
+AWS WorkDocs
+Data Structures (Lists, Sets, Hashes, Sorted Sets)
+
+AWS CloudFormation
+AWS Summit series 2015
+AWS OpsWords
+
+aws solutions architect interview questions - check on GlassDoor
+
+What is CDN how does it work? What are different tiers of storage? What is the difference between SQL and NoSQL DBs? Expect a thorough examination of how you feel about the leadership principles.
+
+Youtube:
+1. Turbocharge Your Apps with Amazon Elasticache
+(how does EC2 applications use cluster nodes?
+
+Learn - PHP, LINUX, Chef, MySQL
+
+Lynda - PHP with MySQL essential training, PHP with MySQL beyond the basics, MySQL essential training, Google Analytics essential training, SEO essentials
